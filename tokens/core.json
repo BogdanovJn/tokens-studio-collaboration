@@ -1,0 +1,142 @@
+{
+  "fontFamilyMain": {
+    "value": "Open Sans",
+    "type": "fontFamilies",
+    "description": "Шрифт для всех текстовых объектов проекта."
+  },
+  "fontFamilyTitle": {
+    "value": "{fontFamilyMain}",
+    "type": "fontFamilies",
+    "description": "Шрифт только для заголовков проекта. По умолчанию унаследывает значение от основного шрифта \"fontFamilyMain\", но можно переопределить на униакльное значение (для проектов с 2 разными шрифтами)."
+  },
+  "fontWeightDefault": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "fontWeightStrong": {
+    "value": "700",
+    "type": "fontWeights"
+  },
+  "borderRadius": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "borderWidth": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "black": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "white": {
+    "value": "#FFFFFF",
+    "type": "color"
+  },
+  "product1": {
+    "value": "#E0440F",
+    "type": "color"
+  },
+  "product2": {
+    "value": "#2F73EE",
+    "type": "color"
+  },
+  "product3": {
+    "value": "#FEF170",
+    "type": "color"
+  },
+  "success": {
+    "value": "#10BA67",
+    "type": "color"
+  },
+  "warning": {
+    "value": "#FFC700",
+    "type": "color"
+  },
+  "danger": {
+    "value": "#EB4D4D",
+    "type": "color"
+  },
+  "info": {
+    "value": "{product2}",
+    "type": "color"
+  },
+  "alt1": {
+    "value": "#a04bc4",
+    "type": "color"
+  },
+  "alt2": {
+    "value": "#5ED3B8",
+    "type": "color"
+  },
+  "alt3": {
+    "value": "#BCD35E",
+    "type": "color"
+  },
+  "tone": {
+    "text": {
+      "value": "#031533",
+      "type": "color"
+    },
+    "bg": {
+      "neutral": {
+        "value": "#5967a6",
+        "type": "color"
+      },
+      "vibrant": {
+        "value": "#0d5df2",
+        "type": "color"
+      }
+    }
+  },
+  "controlSize": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "square": {
+    "color": {
+      "fill1": {
+        "value": "#f00",
+        "type": "color"
+      },
+      "fill2": {
+        "value": "#ff3737",
+        "type": "color"
+      },
+      "fill3": {
+        "value": "#ff6767",
+        "type": "color"
+      },
+      "fill4": {
+        "value": "#ff8a8a",
+        "type": "color"
+      },
+      "fill5": {
+        "value": "#ffb3b3",
+        "type": "color"
+      }
+    }
+  },
+  "testComponent": {
+    "100": {
+      "value": "#C0E6B5",
+      "type": "color"
+    },
+    "200": {
+      "value": "#B4EB93",
+      "type": "color"
+    },
+    "300": {
+      "value": "#63F257",
+      "type": "color"
+    },
+    "400": {
+      "value": "#278C0A",
+      "type": "color"
+    },
+    "500": {
+      "value": "#033E04",
+      "type": "color"
+    }
+  }
+}

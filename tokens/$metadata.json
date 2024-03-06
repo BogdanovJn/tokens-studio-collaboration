@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "map",
+    "alias",
+    "component",
+    "coreDark",
+    "aliasDark",
+    "componentDark"
+  ]
+}

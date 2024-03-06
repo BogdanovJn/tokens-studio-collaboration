@@ -1,0 +1,160 @@
+{
+  "checkbox": {
+    "default": {
+      "indicator": {
+        "hover": {
+          "value": "{tone.bg.neutral}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.35",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      }
+    },
+    "checked": {
+      "indicator": {
+        "disabled": {
+          "value": "{white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.48",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "radio": {
+    "checked": {
+      "indicator": {
+        "disabled": {
+          "value": "{white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.4",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "header": {
+    "bg": {
+      "value": "{bg.neutral.primary}",
+      "type": "color"
+    }
+  },
+  "footer": {
+    "bg": {
+      "value": "{bg.neutral.primary}",
+      "type": "color"
+    }
+  },
+  "input": {
+    "bg": {
+      "hover": {
+        "value": "{tone.bg.neutral}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "hsl"
+            }
+          }
+        }
+      }
+    },
+    "addon": {
+      "bg": {
+        "default": {
+          "value": "{tone.bg.neutral}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.12",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "switcher": {
+    "indicator": {
+      "bg": {
+        "disabled": {
+          "value": "{white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.48",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      },
+      "color": {
+        "default": {
+          "value": "{tone.bg.neutral}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "disabled": {
+          "value": "{black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.4",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      }
+    },
+    "checked": {
+      "inner": {
+        "color": {
+          "disabled": {
+            "value": "{tt.quaternary}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
