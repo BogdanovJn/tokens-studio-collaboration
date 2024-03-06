@@ -116,27 +116,5 @@
         "type": "color"
       }
     }
-  },
-  "testComponent": {
-    "100": {
-      "value": "#C0E6B5",
-      "type": "color"
-    },
-    "200": {
-      "value": "#B4EB93",
-      "type": "color"
-    },
-    "300": {
-      "value": "#63F257",
-      "type": "color"
-    },
-    "400": {
-      "value": "#278C0A",
-      "type": "color"
-    },
-    "500": {
-      "value": "#033E04",
-      "type": "color"
-    }
   }
 }
