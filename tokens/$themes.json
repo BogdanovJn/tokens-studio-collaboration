@@ -673,9 +673,12 @@
       "tagtest.color": "ac59f657465609902bd31d0fc3ce1f9606c6b033",
       "tagtest.borderRadius": "e0dbb4bdddffa1fb6e1cb46a13c3240d16c95d98",
       "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392",
-      "testBadge": "824b5f4bb157891136e834665c6e8dd0b50432c5",
+      "testBadge.borderRadius": "f381392969e2b1292a901701399ae01ab4ad2ba6",
       "testBadge.bg": "08743e1a8ce414831cd390d5b53d85602ad8130b",
-      "testBadge.color": "618ac10ebf10d63c51bb165967cf62aaf59bd7f2"
+      "testBadge.color": "618ac10ebf10d63c51bb165967cf62aaf59bd7f2",
+      "testAvatar.bg": "106b2da2a97d9cbcbfa96db512763a94213372c1",
+      "testAvatar.br": "1ff47195c113d6d23b5ed947363a94cf8f0234ec",
+      "testAvatar.color": "cbf0c9202059843dd22980f5199fced2306fddeb"
     },
     "group": "Theme"
   },
@@ -1310,9 +1313,12 @@
       "tagtest.color": "ac59f657465609902bd31d0fc3ce1f9606c6b033",
       "tagtest.borderRadius": "e0dbb4bdddffa1fb6e1cb46a13c3240d16c95d98",
       "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392",
-      "testBadge": "824b5f4bb157891136e834665c6e8dd0b50432c5",
+      "testBadge.borderRadius": "f381392969e2b1292a901701399ae01ab4ad2ba6",
       "testBadge.bg": "08743e1a8ce414831cd390d5b53d85602ad8130b",
-      "testBadge.color": "618ac10ebf10d63c51bb165967cf62aaf59bd7f2"
+      "testBadge.color": "618ac10ebf10d63c51bb165967cf62aaf59bd7f2",
+      "testAvatar.bg": "106b2da2a97d9cbcbfa96db512763a94213372c1",
+      "testAvatar.br": "1ff47195c113d6d23b5ed947363a94cf8f0234ec",
+      "testAvatar.color": "cbf0c9202059843dd22980f5199fced2306fddeb"
     },
     "group": "Theme"
   }

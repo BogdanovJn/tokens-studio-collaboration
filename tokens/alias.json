@@ -987,7 +987,7 @@
   "testBadge": {
     "borderRadius": {
       "value": "7",
-    "type": "borderRadius"
+      "type": "borderRadius"
     },
     "bg": {
       "value": "#24faf1",
@@ -995,6 +995,20 @@
     },
     "color": {
       "value": "#000",
+      "type": "color"
+    }
+  },
+  "testAvatar": {
+    "bg": {
+      "value": "#eff9ff",
+      "type": "color"
+    },
+    "br": {
+      "value": "#d8f0ff",
+      "type": "color"
+    },
+    "color": {
+      "value": "#485964",
       "type": "color"
     }
   }
