@@ -92,29 +92,5 @@
   "controlSize": {
     "value": "40",
     "type": "sizing"
-  },
-  "square": {
-    "color": {
-      "fill1": {
-        "value": "#f00",
-        "type": "color"
-      },
-      "fill2": {
-        "value": "#ff3737",
-        "type": "color"
-      },
-      "fill3": {
-        "value": "#ff6767",
-        "type": "color"
-      },
-      "fill4": {
-        "value": "#ff8a8a",
-        "type": "color"
-      },
-      "fill5": {
-        "value": "#ffb3b3",
-        "type": "color"
-      }
-    }
   }
 }
