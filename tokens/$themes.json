@@ -672,7 +672,10 @@
       "tagtest.bg.default": "a6c6e41d11c4f3be3c817a9e3b21503d6b9af6b8",
       "tagtest.color": "ac59f657465609902bd31d0fc3ce1f9606c6b033",
       "tagtest.borderRadius": "e0dbb4bdddffa1fb6e1cb46a13c3240d16c95d98",
-      "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392"
+      "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392",
+      "testBadge": "824b5f4bb157891136e834665c6e8dd0b50432c5",
+      "testBadge.bg": "08743e1a8ce414831cd390d5b53d85602ad8130b",
+      "testBadge.color": "618ac10ebf10d63c51bb165967cf62aaf59bd7f2"
     },
     "group": "Theme"
   },
@@ -1306,7 +1309,10 @@
       "tagtest.bg.default": "a6c6e41d11c4f3be3c817a9e3b21503d6b9af6b8",
       "tagtest.color": "ac59f657465609902bd31d0fc3ce1f9606c6b033",
       "tagtest.borderRadius": "e0dbb4bdddffa1fb6e1cb46a13c3240d16c95d98",
-      "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392"
+      "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392",
+      "testBadge": "824b5f4bb157891136e834665c6e8dd0b50432c5",
+      "testBadge.bg": "08743e1a8ce414831cd390d5b53d85602ad8130b",
+      "testBadge.color": "618ac10ebf10d63c51bb165967cf62aaf59bd7f2"
     },
     "group": "Theme"
   }
