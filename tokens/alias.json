@@ -936,16 +936,18 @@
     "value": "Light",
     "type": "text"
   },
-  "test1": {
-    "compA": {
-      "bg": {
-        "value": "#f00",
-        "type": "color"
-      },
-      "color": {
-        "value": "#f60",
-        "type": "color"
-      }
+  "buttonTest": {
+    "borderRadius": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "bg": {
+      "value": "#000",
+      "type": "color"
+    },
+    "color": {
+      "value": "#fff",
+      "type": "color"
     }
   }
 }

@@ -92,11 +92,5 @@
   "controlSize": {
     "value": "40",
     "type": "sizing"
-  },
-  "buttonTest": {
-    "borderRadius": {
-      "value": "24",
-      "type": "borderRadius"
-    }
   }
 }

@@ -587,7 +587,6 @@
       "tag.borderWidthOutlineMD": "1be0f5998677f4ef0528d517b62f5e131ba3b30a",
       "tag.sizeIconMD": "ed5c131c63e70d7c174d72faa2e4eed98116bedb",
       "tag.sizeIconSM": "2a4163be3e6dad3d56c71ad9a64a25d9f2e7b17f",
-      "test2.compB.color": "5bebd933795b3ff291bc88d51f6a8e55c112435d",
       "layout.mobile.padding.horizontal": "c076380b604380b52635a32f22abf64a873f77a4",
       "layout.mobile.padding.vertical": "26bcc0d335c9acc2322ea95ed3a8b74598c3410a",
       "tt.primary": "7e6e11fc4d4df61d7ba528641015a1edf749997e",
@@ -664,8 +663,9 @@
       "glass.blurMD": "1be31e6dd042d5bdfbcbf8054b86cddfda89b066",
       "glass.blurSM": "99fdc5cf0ea13541896b80a640ab290f40c799d7",
       "theme": "c1114f08a0771ea84503b0aceea0229bd283cb82",
-      "test1.compA.bg": "aefef21803c5d208698df32b220761363107bb25",
-      "test1.compA.color": "11774f34d882e1d0fb2706f14f619039ff6a4be7"
+      "buttonTest.borderRadius": "81cbac3a08bc279ad1cd96c6200044eb04c8171e",
+      "buttonTest.bg": "c5d8d8128fa56d4b973a1c7f68022ef1e6ec5bf8",
+      "buttonTest.color": "f5d4917cad881febb0338753f796a0d0ffc17574"
     },
     "group": "Theme"
   },
@@ -693,9 +693,9 @@
       "input.bg.hover": "d8af3fa3e1b8b6c61ea7992afd6e821e987eb781",
       "input.addon.bg.default": "d4c7cbc41e938ef032ab4131741a11de53a13679",
       "switcher.indicator.bg.disabled": "6bd0a0ec25f73fa16249d0be3a0a889beafb0406",
-      "switcher.checked.inner.color.disabled": "26c90f1bad755f511f992ba303707fbcdbd8faa3",
       "switcher.indicator.color.default": "b7139635a9e7cf41c03a44ceb229a17c6e3d8d32",
       "switcher.indicator.color.disabled": "56f1ccbb94e9a918771f2354b776afa43b4d9a25",
+      "switcher.checked.inner.color.disabled": "26c90f1bad755f511f992ba303707fbcdbd8faa3",
       "tt.secondary": "881867024f31e62db5fed743172f798c3d5e0e5a",
       "tt.tertiary": "22f937356ea4402c5534e58a1d13f51751f0ad07",
       "tt.quaternary": "8d8af967d9a730b6fdbd66a2b0c223b6f8b52c1a",
@@ -1235,7 +1235,6 @@
       "tag.borderWidthOutlineMD": "1be0f5998677f4ef0528d517b62f5e131ba3b30a",
       "tag.sizeIconMD": "ed5c131c63e70d7c174d72faa2e4eed98116bedb",
       "tag.sizeIconSM": "2a4163be3e6dad3d56c71ad9a64a25d9f2e7b17f",
-      "test2.compB.color": "5bebd933795b3ff291bc88d51f6a8e55c112435d",
       "layout.mobile.padding.horizontal": "c076380b604380b52635a32f22abf64a873f77a4",
       "layout.mobile.padding.vertical": "26bcc0d335c9acc2322ea95ed3a8b74598c3410a",
       "tt.primary": "7e6e11fc4d4df61d7ba528641015a1edf749997e",
@@ -1291,8 +1290,9 @@
       "emboss.darkEdge.blur": "a94b07912a7fee4a54c13923787bb59aa4325275",
       "glass.blurMD": "1be31e6dd042d5bdfbcbf8054b86cddfda89b066",
       "glass.blurSM": "99fdc5cf0ea13541896b80a640ab290f40c799d7",
-      "test1.compA.bg": "aefef21803c5d208698df32b220761363107bb25",
-      "test1.compA.color": "11774f34d882e1d0fb2706f14f619039ff6a4be7"
+      "buttonTest.borderRadius": "81cbac3a08bc279ad1cd96c6200044eb04c8171e",
+      "buttonTest.bg": "c5d8d8128fa56d4b973a1c7f68022ef1e6ec5bf8",
+      "buttonTest.color": "f5d4917cad881febb0338753f796a0d0ffc17574"
     },
     "group": "Theme"
   }
