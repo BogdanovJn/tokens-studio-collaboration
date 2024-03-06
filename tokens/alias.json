@@ -949,5 +949,25 @@
       "value": "#fff",
       "type": "color"
     }
+  },
+  "tagtest": {
+    "bg": {
+      "default": {
+        "value": "#877373",
+        "type": "color"
+      }
+    },
+    "color": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "bgWidth": {
+      "value": "2",
+      "type": "borderWidth"
+    }
   }
 }
