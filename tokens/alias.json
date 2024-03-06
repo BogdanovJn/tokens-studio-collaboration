@@ -1009,7 +1009,8 @@
       "tittle": {
         "value": "#454545",
         "type": "color"
-      },
+      }
+    },
     "subtittle": {
       "value": "#737373",
       "type": "color"
