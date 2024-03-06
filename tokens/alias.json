@@ -964,6 +964,16 @@
       "type": "borderRadius"
     }
   },
+  "testBadge": {
+    "value": "7",
+    "type": "borderRadius",
+    "bg": {
+      "value": "#24faf1",
+      "type": "color"
+    },
+    "color": {
+      "value": "#000",
+      "type": "color"
   "tagtest": {
     "bg": {
       "default": {
