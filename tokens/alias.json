@@ -950,24 +950,18 @@
       "type": "color"
     }
   },
-  "tagtest": {
+  "testInput": {
     "bg": {
-      "default": {
-        "value": "#877373",
-        "type": "color"
-      }
-    },
-    "color": {
-      "value": "#fff",
+      "value": "#e0e0e0",
       "type": "color"
     },
-    "borderRadius": {
-      "value": "12",
-      "type": "borderRadius"
+    "color": {
+      "value": "#434343",
+      "type": "color"
     },
-    "bgWidth": {
-      "value": "2",
-      "type": "borderWidth"
+    "rorderRadius": {
+      "value": "4",
+      "type": "borderRadius"
     }
   }
 }

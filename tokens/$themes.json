@@ -666,10 +666,9 @@
       "buttonTest.borderRadius": "81cbac3a08bc279ad1cd96c6200044eb04c8171e",
       "buttonTest.bg": "c5d8d8128fa56d4b973a1c7f68022ef1e6ec5bf8",
       "buttonTest.color": "f5d4917cad881febb0338753f796a0d0ffc17574",
-      "tagtest.bg.default": "f7a3ada1655954437b18e5a1fe1dcc9e063d7362",
-      "tagtest.color": "b35b56697c12e1fc5cd66f4db972f9aac95a0273",
-      "tagtest.borderRadius": "6f3187046b431b61db0d2484c7ff85fda7b465c1",
-      "tagtest.bgWidth": "b7e0f59ad5f1a5098750d55d6d54d4a674a40763"
+      "testInput.bg": "bf71f498f332885520f1d0b37f2d2a07c7c82f09",
+      "testInput.color": "5ec2d9049731dcd65bce1f6e65ec29a497751f71",
+      "testInput.rorderRadius": "fa6bf1cc25d8db136ac70367c8b8f5b5049b9593"
     },
     "group": "Theme"
   },
@@ -1297,10 +1296,9 @@
       "buttonTest.borderRadius": "81cbac3a08bc279ad1cd96c6200044eb04c8171e",
       "buttonTest.bg": "c5d8d8128fa56d4b973a1c7f68022ef1e6ec5bf8",
       "buttonTest.color": "f5d4917cad881febb0338753f796a0d0ffc17574",
-      "tagtest.bg.default": "f7a3ada1655954437b18e5a1fe1dcc9e063d7362",
-      "tagtest.color": "b35b56697c12e1fc5cd66f4db972f9aac95a0273",
-      "tagtest.borderRadius": "6f3187046b431b61db0d2484c7ff85fda7b465c1",
-      "tagtest.bgWidth": "b7e0f59ad5f1a5098750d55d6d54d4a674a40763"
+      "testInput.bg": "bf71f498f332885520f1d0b37f2d2a07c7c82f09",
+      "testInput.color": "5ec2d9049731dcd65bce1f6e65ec29a497751f71",
+      "testInput.rorderRadius": "fa6bf1cc25d8db136ac70367c8b8f5b5049b9593"
     },
     "group": "Theme"
   }
