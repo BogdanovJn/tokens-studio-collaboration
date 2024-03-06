@@ -1010,10 +1010,23 @@
         "value": "#454545",
         "type": "color"
       },
-      "subtittle": {
-        "value": "#737373",
-        "type": "color"
-      }
+    "subtittle": {
+      "value": "#737373",
+      "type": "color"
+    }
+  },
+  "testAvatar": {
+    "bg": {
+      "value": "#eff9ff",
+      "type": "color"
+    },
+    "br": {
+      "value": "#d8f0ff",
+      "type": "color"
+    },
+    "color": {
+      "value": "#485964",
+      "type": "color"
     }
   }
 }
