@@ -668,7 +668,11 @@
       "buttonTest.color": "f5d4917cad881febb0338753f796a0d0ffc17574",
       "testInput.bg": "bf71f498f332885520f1d0b37f2d2a07c7c82f09",
       "testInput.color": "5ec2d9049731dcd65bce1f6e65ec29a497751f71",
-      "testInput.rorderRadius": "fa6bf1cc25d8db136ac70367c8b8f5b5049b9593"
+      "testInput.rorderRadius": "fa6bf1cc25d8db136ac70367c8b8f5b5049b9593",
+      "tagtest.bg.default": "a6c6e41d11c4f3be3c817a9e3b21503d6b9af6b8",
+      "tagtest.color": "ac59f657465609902bd31d0fc3ce1f9606c6b033",
+      "tagtest.borderRadius": "e0dbb4bdddffa1fb6e1cb46a13c3240d16c95d98",
+      "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392"
     },
     "group": "Theme"
   },
@@ -1298,7 +1302,11 @@
       "buttonTest.color": "f5d4917cad881febb0338753f796a0d0ffc17574",
       "testInput.bg": "bf71f498f332885520f1d0b37f2d2a07c7c82f09",
       "testInput.color": "5ec2d9049731dcd65bce1f6e65ec29a497751f71",
-      "testInput.rorderRadius": "fa6bf1cc25d8db136ac70367c8b8f5b5049b9593"
+      "testInput.rorderRadius": "fa6bf1cc25d8db136ac70367c8b8f5b5049b9593",
+      "tagtest.bg.default": "a6c6e41d11c4f3be3c817a9e3b21503d6b9af6b8",
+      "tagtest.color": "ac59f657465609902bd31d0fc3ce1f9606c6b033",
+      "tagtest.borderRadius": "e0dbb4bdddffa1fb6e1cb46a13c3240d16c95d98",
+      "tagtest.bgWidth": "feaa31c5fae91dda9614c52ff190316be6996392"
     },
     "group": "Theme"
   }
