@@ -998,6 +998,23 @@
       "type": "color"
     }
   },
+  "card": {
+    "bg": {
+      "default": {
+        "value": "#d3dcde",
+        "type": "color"
+      }
+    },
+    "color": {
+      "tittle": {
+        "value": "#454545",
+        "type": "color"
+      },
+    "subtittle": {
+      "value": "#737373",
+      "type": "color"
+    }
+  },
   "testAvatar": {
     "bg": {
       "value": "#eff9ff",
